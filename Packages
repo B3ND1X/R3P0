@@ -27,17 +27,53 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
 
-Package: filzafilemanager_3.6.3.deb
-Version: 3.6.3
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
 Section: Tweaks
-Maintainer: B3ND1X <b3nd1x.m4rk3t@gmail.com>
+Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/filzafilemanager_3.6.3.deb
-Size: 8.85
-MD5sum: 048401d3a93394db3a7fce4e3fbffbee
-Description: Compatable with iOS 7 - 12 Powerful File Manager for iPhone, iPad, iPod Touch.
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+
+
 Name: Filza File Manager
-Author: TIGI Software <b3nd1x.m4rk3t@gmail.com>
+Package: com.tigisoftware.filza
+Priority: optional
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Version: 3.6.3
+Architecture: iphoneos-arm
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: TIGI Software <satashi2009@gmail.com>
+Section: Utilities
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Size: 27513
+dev: satashi2009
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
+MD5sum: 048401d3a93394db3a7fce4e3fbffbee
 
 
