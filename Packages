@@ -27,3 +27,31 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
 
+Package: filzafilemanager_3.6.3.deb
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: B3ND1X <b3nd1x.m4rk3t@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/filzafilemanager_3.6.3.deb
+Size: 8.85
+MD5sum: 048401d3a93394db3a7fce4e3fbffbee
+Description: Compatable with iOS 7 - 12 Powerful File Manager for iPhone, iPad, iPod Touch. Flat design, with best performance:
+– File viewers: Media player, Hex editor, Text editor, SQLite Editor, IPA Installer, DEB Installer, Web viewer, Terminal ….
+– SQLite Editor was design for large query, works well with over 100k+ rows in result
+– Execute shell scripts and applications just few tap
+– Cloud services: Dropbox, Box, Google Drive, WebDAV, FTP, SFTP
+– Supports SMB (Windows File Sharing)
+– Search files and folders easily
+– Powerful files copy/move design, just few taps
+– Download normal/html file with easy way: copy html link to Pasteboard, and paste it to destination folder
+– Manage Music library easily: import/export/delete/rename ... just do same as normal files
+– Explore files in list view mode or grid view mode, with thumbnail
+– Compress zip file, decompress zip/7z/rar/tar/tar.gz/gz ...
+– Install and extract DEB/IPA file, view DEB/IPA file information
+– Black theme and white theme, custom folder icon, file extension icon, ...
+
+Name: Filza File Manager
+Author: TIGI Software <b3nd1x.m4rk3t@gmail.com>
+
+
