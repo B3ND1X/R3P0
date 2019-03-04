@@ -1,0 +1,23 @@
+<package>
+	<id>bz.tweakcompatible.deb</id>
+	<name>tweakCompatible</name>
+	<version>0.1.2</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>9.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Checks to see if your iOS version is supported for a package.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
