@@ -35,15 +35,9 @@ Conflicts: com.tigisoftware.filza64bit
 Version: 3.6.3
 Architecture: iphoneos-arm
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
-Sponsor: thebigboss.org <http://thebigboss.org>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Author: TIGI Software <satashi2009@gmail.com>
 Section: Tweaks
-Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Size: 27513
-dev: satashi2009
-Icon: file:///Applications/Filza.app/AppIcon57x57.png
 MD5sum: 048401d3a93394db3a7fce4e3fbffbee
 
