@@ -28,7 +28,7 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.old
 
 
 Package: filzafilemanager_3.6.3.deb
-Version: 2.0.0-1
+Version: 3.6.3
 Section: Tweaks
 Maintainer: B3ND1X <b3nd1x.m4rk3t@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
