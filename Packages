@@ -27,17 +27,17 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
 
-Name: Filza File Manager
 Package: com.tigisoftware.filza
+Version: 3.6.3
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
 Priority: optional
 Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
-Version: 3.6.3
 Architecture: iphoneos-arm
-Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Author: TIGI Software <satashi2009@gmail.com>
-Section: Tweaks
 Size: 27513
 MD5sum: 048401d3a93394db3a7fce4e3fbffbee
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Name: Filza File Manager
+Author: TIGI Software <satashi2009@gmail.com>
 
