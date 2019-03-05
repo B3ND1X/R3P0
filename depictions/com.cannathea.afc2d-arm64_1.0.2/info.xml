@@ -1,6 +1,6 @@
 package>
-	<id>Apple File Conduit "2" (arm64/KPPLess)</id>
-	<name>AppCake</name>
+	<id>com.cannathea.afc2d-arm64</id>
+	<name>Apple File Conduit "2" (arm64/KPPLess)</name>
 	<version>6.0.8</version>
 	<compatibility>
 		<firmware>
